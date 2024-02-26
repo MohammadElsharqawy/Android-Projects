@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="inc_string"> + </string>
+    <string name="dec_string"> - </string>
+</resources>

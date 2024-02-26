@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothPaired</string>
+    <string name="btn">GetPairedDevices</string>
+    <string name="textview">Devices</string>
+    <string name="PairedDevices">PairedDevices</string>
+    <string name="pairedresult">pairedresult</string>
+    <string name="DiscoverDevices">DiscoverDevices</string>
+
+</resources>
